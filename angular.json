@@ -122,5 +122,8 @@
       }
     }
   },
-  "defaultProject": "matrimony"
+  "defaultProject": "matrimony",
+  "cli": {
+    "analytics": "5967face-0e40-46b6-a51d-51fa2d1f06c5"
+  }
 }
