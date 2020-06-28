@@ -4,13 +4,17 @@
             <div class="d-flex justify-content-center">
                 <div>
                     <div class="form-group">
-                        <label for="exampleFormControlSelect1"> Select Filter</label>
+                        <label for="exampleFormControlSelect1"> Select Filter to dispay the Detail</label>
                         <select class="form-control" (change)="optionChange($event)">
                             <option value="mainData">Select Filter</option>
-                          <option value="apple">Apple</option>
-                          <option value="orange">Orange</option>
-                          <option value="mango">Mango</option>
-                          <option value="grapes">Grapes</option>
+                          <option value="MTCBride8Veedu">24MTC Bride 8 Veedu</option>
+                          <option value="MTCGroom8Veedu">24MTC Groom 8 Veedu</option>
+                          <option value="MTCBride16Veedu">24MTC Bride 16 Veedu</option>
+                          <option value="MTCGroom16Veedu">24MTC Groom 16 Veedu</option>
+                          <option value="MTC16VeeduDoctor">24MTC 16 Veedu Doctor</option>
+                          <option value="MTC8VeeduDoctor">24MTC 8 Veedu Doctor</option>
+                          <option value="MTC16VeeduRemarriage">24MTC 16 Veedu Remarriage</option>
+                          <option value="MTC8VeeduRemarriage">24MTC 8 Veedu Remarriage</option>
                         </select>
                       </div>
                 </div>
@@ -28,6 +32,10 @@
                         <dd class="col-sm-4">{{item.mid}}</dd>
                         <dt class="col-sm-6 text-truncate">DOB</dt>
                         <dd class="col-sm-6">{{item.dob}}</dd>
+                        <dt class="col-sm-6">Gender</dt>
+                        <dd class="col-sm-6">{{item.Gender}}</dd>
+                        <dt class="col-sm-6">Marital status</dt>
+                        <dd class="col-sm-6">{{item.Maritalstatus}}</dd>
                         <dt class="col-sm-6">Father's Occupation</dt>
                         <dd class="col-sm-6">{{item.fathersOccupation}}</dd>
                         <dt class="col-sm-6">Mother's Occupation</dt>

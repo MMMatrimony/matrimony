@@ -10,234 +10,190 @@ export class HomeScreenComponent implements OnInit {
 
   dataSet = {
     mainData : [
-      {
-        mid:'G.24.16.001',
-        name:'Ramkumar',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Ram',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Raghu',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Kishore',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Ram',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Raghu',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Kishore',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },{
-        mid:'G.24.16.001',
-        name:'Ram',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Raghu',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Kishore',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      }
     ],
-    apple : [
+    
+    MTCBride8Veedu: [
       {
-        mid:'G.24.16.001',
-        name:'V Karthik',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Ram',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      },
-      {
-        mid:'G.24.16.001',
-        name:'Ram',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      }
-    ],
-    grapes: [
-        {
-        mid:'G.24.16.001',
-        name:'Ram',
-        dob: '10-Jan-1989',
-        fathersOccupation: 'Private Sector (Late)',
-        mothersOccupation: 'Home maker',
-        education: 'B.Ed',
-        occupation:'IT',
-        company:'TCS',
-        class: 'Middle class',
-        salary: '50000 (Take home)',
-        veedu : 16,
-        siblings : '2 Elder sister(Got married)',
-        native: '2 Elder sister(Got married)',
-        livingLocation: 'Chennai'
-      }
+        mid:'',
+        name:'24MTC Bride 8 Veedu Details will display soon',
+        dob: '',
+        Gender: 'Female', 
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 8,
+        siblings : '',
+        native: '',
+        livingLocation: ''
 
-    ]
+      },
+      
+    ],
+
+MTCGroom8Veedu: [
+      {
+        mid:'',
+        name:'24MTC Groom 8 Veedu Details will display soon',
+        dob: '',
+        Gender: 'Male',
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu :8 ,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      
+    ],
+MTCBride16Veedu : [
+      {
+        mid:'',
+        name:'24MTC Bride 16 Veedu Details will display soon',
+        dob: '',
+        Gender: 'Female',
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu :16 ,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      
+    ],
+MTCGroom16Veedu: [
+      {
+        mid:'',
+        name:'24MTC Groom 16 Veedu Details will display soon',
+        dob: '',
+        Gender: 'Male',
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 16,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      
+    ],
+MTC16VeeduDoctor: [
+      {
+        mid:'',
+        name:'24MTC 16 Veedu Doctor Details will display soon',
+        dob: '',
+        Gender: '',
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 16 ,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      
+    ],
+MTC8VeeduDoctor: [
+      {
+        mid:'',
+        name:'24MTC 8 Veedu Doctor Details will display soon',
+        dob: '',
+        Gender: '',
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 8 ,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      
+    ],
+MTC16VeeduRemarriage: [
+      {
+        mid:'',
+        name:'24MTC 16 Veedu Remarriage Details will display soon',
+        dob: '',
+        Gender: '',
+        Maritalstatus: 'Divorce/Widow',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 16,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      
+    ],
+MTC8VeeduRemarriage: [
+      {
+        mid:'',
+        name:'24MTC 8 Veedu Remarriage Details will display soon',
+        dob: '',
+        Gender: '',
+        Maritalstatus: 'Divorce/Widow',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 8 ,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      
+    ],
+
+    
+  
+
+
   }
 
   data = this.dataSet.mainData;
