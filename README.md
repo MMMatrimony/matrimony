@@ -25,3 +25,25 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Clone and Build Instructions
+git clone https://github.com/MMMatrimony/matrimony.git
+cd matrimony
+npm install
+
+//To Run the project
+npm start
+
+//To take a build
+ng build --prod --output-path docs --base-href https://mmmatrimony.github.io/matrimony/
+
+-- Copy index.html file in the docs folder and paste it in the same folder
+-- rename pasted file to 404.html
+
+//To stage the code
+git add .
+// To commit the code
+git commit -m "Your comment"
+//git push
+TO push into the cloud
