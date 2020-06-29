@@ -4,7 +4,7 @@
             <div class="d-flex justify-content-center">
                 <div>
                     <div class="form-group">
-                        <label for="exampleFormControlSelect1"> Select Filter to dispay the Detail</label>
+                        <label for="exampleFormControlSelect1"> Apply a Filter to dispay the Details</label>
                         <select class="form-control" (change)="optionChange($event)">
                             <option value="mainData">Select Filter</option>
                           <option value="MTCBride8Veedu">24MTC Bride 8 Veedu</option>
@@ -23,41 +23,41 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-3 mt-4" *ngFor="let item of data">
+        <div class="col-md-4 mt-4" *ngFor="let item of data">
             <div class="card">
                 <h6 class="card-header">{{item.name}}</h6>
                 <div class="card-body">
                     <dl class="row">
                         <dt class="col-sm-6">MID</dt>
                         <dd class="col-sm-4">{{item.mid}}</dd>
-                        <dt class="col-sm-6 text-truncate">DOB</dt>
-                        <dd class="col-sm-6">{{item.dob}}</dd>
-                        <dt class="col-sm-6">Gender</dt>
-                        <dd class="col-sm-6">{{item.Gender}}</dd>
-                        <dt class="col-sm-6">Marital status</dt>
-                        <dd class="col-sm-6">{{item.Maritalstatus}}</dd>
-                        <dt class="col-sm-6">Father's Occupation</dt>
-                        <dd class="col-sm-6">{{item.fathersOccupation}}</dd>
-                        <dt class="col-sm-6">Mother's Occupation</dt>
-                        <dd class="col-sm-6">{{item.mothersOccupation}}</dd>
-                        <dt class="col-sm-6">Education</dt>
-                        <dd class="col-sm-6">{{item.education}}</dd>
-                        <dt class="col-sm-6">Occupation</dt>
-                        <dd class="col-sm-6">{{item.occupation}}</dd>
-                        <dt class="col-sm-6">Company</dt>
-                        <dd class="col-sm-6">{{item.company}}</dd>
-                        <dt class="col-sm-6">Class</dt>
-                        <dd class="col-sm-6">{{item.class}}</dd>
-                        <dt class="col-sm-6">Salaray</dt>
-                        <dd class="col-sm-6">{{item.salary}}</dd>
-                        <dt class="col-sm-6">Veedu</dt>
-                        <dd class="col-sm-6">{{item.veedu}}</dd>
-                        <dt class="col-sm-6">Siblings</dt>
-                        <dd class="col-sm-6">{{item.siblings}}</dd>
-                        <dt class="col-sm-6">Native</dt>
-                        <dd class="col-sm-6">{{item.native}}</dd>
-                        <dt class="col-sm-6">LivingLocation</dt>
-                        <dd class="col-sm-6">{{item.livingLocation}}</dd>
+                        <dt class="col-sm-5 text-truncate">DOB</dt>
+                        <dd class="col-sm-5">{{item.dob}}</dd>
+                        <dt class="col-sm-5">Gender</dt>
+                        <dd class="col-sm-5">{{item.Gender}}</dd>
+                        <dt class="col-sm-5">Marital status</dt>
+                        <dd class="col-sm-5">{{item.Maritalstatus}}</dd>
+                        <dt class="col-sm-5">Father's Occupation</dt>
+                        <dd class="col-sm-5">{{item.fathersOccupation}}</dd>
+                        <dt class="col-sm-5">Mother's Occupation</dt>
+                        <dd class="col-sm-5">{{item.mothersOccupation}}</dd>
+                        <dt class="col-sm-5">Education</dt>
+                        <dd class="col-sm-5">{{item.education}}</dd>
+                        <dt class="col-sm-5">Occupation</dt>
+                        <dd class="col-sm-5">{{item.occupation}}</dd>
+                        <dt class="col-sm-5">Company</dt>
+                        <dd class="col-sm-5">{{item.company}}</dd>
+                        <dt class="col-sm-5">Class</dt>
+                        <dd class="col-sm-5">{{item.class}}</dd>
+                        <dt class="col-sm-5">Salaray</dt>
+                        <dd class="col-sm-5">{{item.salary}}</dd>
+                        <dt class="col-sm-5">Veedu</dt>
+                        <dd class="col-sm-5">{{item.veedu}}</dd>
+                        <dt class="col-sm-5">Siblings</dt>
+                        <dd class="col-sm-5">{{item.siblings}}</dd>
+                        <dt class="col-sm-5">Native</dt>
+                        <dd class="col-sm-5">{{item.native}}</dd>
+                        <dt class="col-sm-5">LivingLocation</dt>
+                        <dd class="col-sm-5">{{item.livingLocation}}</dd>
                     </dl>
                 </div>
               </div>

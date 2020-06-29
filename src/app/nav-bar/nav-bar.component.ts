@@ -25,4 +25,5 @@ export class NavBarComponent implements OnInit {
   toggleContactUs() {
     this.modelService.open(ContactusComponent,{size:'xl'});
   }
+  
 }

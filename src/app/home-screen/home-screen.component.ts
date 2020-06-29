@@ -32,6 +32,82 @@ export class HomeScreenComponent implements OnInit {
         livingLocation: ''
 
       },
+      {
+        mid:'',
+        name:'24MTC Bride 8 Veedu Details will display soon',
+        dob: '',
+        Gender: 'Female', 
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 8,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      {
+        mid:'',
+        name:'24MTC Bride 8 Veedu Details will display soon',
+        dob: '',
+        Gender: 'Female', 
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 8,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      {
+        mid:'',
+        name:'24MTC Bride 8 Veedu Details will display soon',
+        dob: '',
+        Gender: 'Female', 
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 8,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
+      {
+        mid:'',
+        name:'24MTC Bride 8 Veedu Details will display soon',
+        dob: '',
+        Gender: 'Female', 
+        Maritalstatus: 'Unmarried',
+        fathersOccupation: '',
+        mothersOccupation: '',
+        education: '',
+        occupation:'',
+        company:'',
+        class: '',
+        salary: ' (Take home)',
+        veedu : 8,
+        siblings : '',
+        native: '',
+        livingLocation: ''
+
+      },
       
     ],
 
