@@ -766,6 +766,26 @@ MTC8VeeduDoctor: [
 MTC16VeeduRemarriage: [
       {
         
+                name: 'B Murali Krishnan',
+        id: '32',
+        dob: '24/10/1988',
+        Gender:  'Male',
+        Maritalstatus: 'Mutual divorce',
+        dhosam:  'No',
+        fathersname: 'Balasubramaniam',
+        fathersOccupation: 'Business',
+         mothersname: 'Jansi Rani',
+        mothersOccupation: 'Home maker ',
+        education: 'BCA',
+        occupation: 'Business',
+        company: 'Not Received',
+        class: 'Upper',
+        salary: 'Not Received',
+        veedu : '16',
+        siblings : ' 1 sister younger  un married ',
+        native: 'Pollachi',
+        livingLocation: 'Not Received',
+
 
       },
       
