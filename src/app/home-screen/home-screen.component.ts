@@ -39,6 +39,29 @@ export class HomeScreenComponent implements OnInit {
       },
 
       {
+                name: 'P.Gayathri',
+                id: '35',
+                dob: '19/04/1993',
+                Gender:  'Female',
+                Maritalstatus: 'Unmarried',
+                dhosam:  'No',
+                fathersname: 'Paramasivam (Late)',
+                fathersOccupation: 'NA',
+                 mothersname: 'Susila.P',
+                mothersOccupation: 'Home Maker',
+                education: 'B.tech(Biotechnology)',
+                occupation: 'IT',
+                company: 'private sector',
+                class: 'Upper Class',
+                salary: 'Decent Income',
+                veedu : '8',
+                siblings : 'one elder brother ',
+                native: 'Tiruppur',
+                livingLocation: 'Chennai',
+        
+      },
+
+      {
 
                 name: 'Apsara S',
         id: '27',
