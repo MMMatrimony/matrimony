@@ -511,6 +511,31 @@ MTCBride16Veedu : [
        
       },
 
+      {
+
+                name: 'Harishma',
+        id: '34',
+        dob: '4.2.1996',
+        Gender:  'Female',
+        Maritalstatus: 'Unmarried',
+        dhosam:  'Not Received',
+        fathersname: 'Mahalingam',
+        fathersOccupation: 'Not Received',
+         mothersname: 'Umamaheshwari',
+        mothersOccupation: 'Not Received',
+        education: 'B.Tech (IT)',
+        occupation: 'IT',
+        company: 'WIPRO',
+        class: 'Not Received',
+        salary: '40000',
+        veedu : '16',
+        siblings : 'Not Received',
+        native: 'Not Received',
+        livingLocation: 'Not Received',
+
+      },
+
+
       {        name: 'P.M.ANITHA',
               id: '20',
               dob: '06.03.1990',
@@ -556,6 +581,29 @@ MTCGroom16Veedu: [
         livingLocation: 'Chennai',
 
 
+      },
+
+      {
+                name: 'Kathiresan J',
+                id: '33',
+                dob: '22.08.1984',
+                Gender:  'Male',
+                Maritalstatus: 'Unmarried',
+                dhosam:  'No',
+                fathersname: 'Jayaprakash ',
+                fathersOccupation: 'Farmer',
+                 mothersname: 'Kanniammalal',
+                mothersOccupation: 'Retired  (Sathunavu Amaipalar)',
+                education: 'BE',
+                occupation: 'IT',
+                company: 'Tatacommunications Limited ',
+                class: 'Middle ',
+                salary: '60000',
+                veedu : '16',
+                siblings : '1',
+                native: 'Pollachi ',
+                livingLocation: 'Udumalaippettai',
+        
       },
 
       {
