@@ -61,6 +61,29 @@ export class HomeScreenComponent implements OnInit {
         
       },
 
+      {        name: 'J.PANDEESWARI',
+              id: '36',
+              dob: '13.07.1992',
+              Gender:  'Female',
+              Maritalstatus: 'Unmarried',
+              dhosam:  'No',
+              fathersname: 'A.JEYAMURUGN',
+              fathersOccupation: 'Own business',
+               mothersname: ' J.SELVI',
+              mothersOccupation: 'Home Maker',
+              education: 'Dip.Civil.engg',
+              occupation: 'Architect ',
+              company: 'Private firm',
+              class: 'Middle Class',
+              salary: '10000 P/m',
+              veedu : '8',
+              siblings : '2 Elder sisters got married',
+              native: 'Pannapatti ',
+              livingLocation: 'Madurai',
+      
+
+      },
+
       {
 
                 name: 'Apsara S',
