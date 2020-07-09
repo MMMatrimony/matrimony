@@ -253,6 +253,28 @@ MTCGroom8Veedu: [
         livingLocation: 'Madurai.',
 
       },
+      {
+                name: 'S ALAGARSAMY',
+                id: '37',
+                dob: '02.11.1996',
+                Gender:  'Male',
+                Maritalstatus: 'Unmarried',
+                dhosam:  'Not Received',
+                fathersname: 'T SELVARAJ',
+                fathersOccupation: 'EXARMY',
+                 mothersname: 'S JOTHI',
+                mothersOccupation: 'NIL  ',
+                education: 'BE',
+                occupation: 'Business ',
+                company: 'SRI SELVA JOTHI AGENCY',
+                class: 'Middle Class',
+                salary: '20000-25000',
+                veedu : '8',
+                siblings : 'Not Received',
+                native: 'Theni',
+                livingLocation: 'Theni',
+        
+      },
 
       {
                        name: 'B. Gokulnathan',
@@ -628,7 +650,28 @@ MTCGroom16Veedu: [
 
 
       },
+{
+                name: 'K Selvavinayagam',
+        id: '38',
+        dob: '25.06.1993',
+        Gender:  'Male',
+        Maritalstatus: 'Unmarried',
+        dhosam:  'No',
+        fathersname: 'M.krishnara',
+        fathersOccupation: 'Rathi silk work',
+         mothersname: 'Powaneshwari',
+        mothersOccupation: 'Home Maker',
+        education: '12th',
+        occupation: 'Horlikes company',
+        company: 'Horlikes company',
+        class: 'Middle Class',
+        salary: '18000',
+        veedu : '16',
+        siblings : '1 brother - 1 sister married',
+        native: 'salem',
+        livingLocation: 'salem',
 
+},
       {
                 name: 'Kathiresan J',
                 id: '33',
