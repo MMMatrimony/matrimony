@@ -651,7 +651,7 @@ MTCGroom16Veedu: [
 
       },
 {
-                name: 'K Selvavinayagam',
+                      name: 'K Selvavinayagam',
         id: '38',
         dob: '25.06.1993',
         Gender:  'Male',
@@ -670,8 +670,64 @@ MTCGroom16Veedu: [
         siblings : '1 brother - 1 sister married',
         native: 'salem',
         livingLocation: 'salem',
+        rasi:  'Simam',
+       natchathiram: 'Pooram',
+
 
 },
+
+{
+
+                name: 'P. Gopalakrishnan',
+        id: '39',
+        dob: '31.08.1986',
+        Gender:  'Male',
+        Maritalstatus: 'Unmarried',
+        dhosam:  'No',
+        fathersname: 'Perumal',
+        fathersOccupation: 'Painter',
+         mothersname: 'Nirmala',
+        mothersOccupation: 'Retired govt employee',
+        education: 'D.M.E.',
+        occupation: 'Govt. Employee, Town Panchayat Office',
+        company: 'Govt. Employee, Town Panchayat Office',
+        class: 'Middle Class',
+        salary: '23000',
+        veedu : '16',
+        siblings : 'One younger brother',
+        native: 'Thirukkazhukundram',
+        livingLocation: 'Thirukkazhukundram, Chengalpattu district',
+        rasi:  'Mithunam ',
+       natchathiram: 'Punarpoosam ',
+
+},
+
+{
+
+                name: 'Madhiyan',
+        id: '40',
+        dob: '02.06.1990',
+        Gender:  'Male',
+        Maritalstatus: 'Unmarried',
+        dhosam:  'No',
+        fathersname: 'B.J Gopal',
+        fathersOccupation: 'Business and MGR Nagar Voor Thalaivar',
+         mothersname: 'B.G Savithiri',
+        mothersOccupation: 'Home Maker',
+        education: 'SSLC',
+        occupation: 'textile business',
+        company: 'textile business',
+        class: 'Middle Class',
+        salary: '50000 to 100000',
+        veedu : '16',
+        siblings : '1 brother - 1 sister married',
+        native: 'bargur Krishnagiri district',
+        livingLocation: 'bargur Krishnagiri district',
+        rasi:  'Kanni',
+       natchathiram: 'Not Received',
+
+},
+
       {
                 name: 'Kathiresan J',
                 id: '33',
