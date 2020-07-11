@@ -38,6 +38,30 @@ export class HomeScreenComponent implements OnInit {
 
       },
 
+      {        name: 'VEERAVINODHINI P',
+              id: '43',
+              dob: '18/08/1997',
+              Gender:  'Female',
+              Maritalstatus: 'Unmarried',
+              dhosam:  'No',
+              fathersname: 'Palanisamy',
+              fathersOccupation: 'Tailor ',
+               mothersname: 'Usharani',
+              mothersOccupation: 'Homemaker',
+              education: 'MCA, BL',
+              occupation: 'Not Received',
+              company: 'Not Received',
+              class: 'Middle class ',
+              salary: 'Not Received',
+              veedu : '8',
+              siblings : '1',
+              native: 'Kerala ',
+              livingLocation: 'TIRUPUR',
+              rasi:  'Magaram',
+             natchathiram: 'Avittam',
+      },
+
+
       {
                        name: 'P.Gayathri',
         id: '35',
@@ -656,6 +680,30 @@ MTCGroom16Veedu: [
 
 
       },
+
+      {        name: 'Ramakrishnaprabu',
+              id: '42',
+              dob: '4.10.1984',
+              Gender:  'Male',
+              Maritalstatus: 'Unmarried',
+              dhosam:  'No',
+              fathersname: 'Hanumanthan',
+              fathersOccupation: 'Retd Postmaster',
+               mothersname: 'Angammal- Homemaker',
+              mothersOccupation: 'Homemaker',
+              education: 'B.sc ... Bed',
+              occupation: 'Merchandiser',
+              company: 'SCM',
+              class: 'Middle class ',
+              salary: '25000',
+              veedu : '16',
+              siblings : '2 Elder sister ( Married & well settled) ',
+              native: 'Nilakottai',
+              livingLocation: 'TIRUPUR',
+              rasi:  'Maharam',
+             natchathiram: 'Tiruvonam',
+      },
+
 
       {
 
