@@ -2785,7 +2785,7 @@ export class HomeScreenComponent implements OnInit {
                                 Maritalstatus: 'Unmarried',
                                 education: 'B.sc CT',
                                 Height: '5.6',
-                                Weight: '65',
+                                Weight: '55',
                                 EatingHabits: 'Non Vegetarian',
                                 native: 'Tirupur',
                                 livingLocation: 'TIRUPUR',
