@@ -1356,7 +1356,7 @@ property: 'Not Received',
                                 rasi: ' Mesha',
                                 natchathiram: ' Bharani',
                                 Lagnam: ' mesha',
-                                Expectation: ' simple and good looking girl with understand family nature',
+                                Expectation: ' simple and good looking girl with understand family nature and 16 veedu girl',
                                 property: '(own house or land) Own house',
                                 
                         },
